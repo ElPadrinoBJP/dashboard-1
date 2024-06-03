@@ -67,7 +67,7 @@ export default function Contenido({userName}) {
                     </div>
                     <button
                         type="submit"
-                        className="w-full p-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                        className="w-full p-2 bg-purple-700 text-white rounded hover:bg-blue-600"
                     >
                         Agregar Presupuesto
                     </button>
@@ -89,7 +89,7 @@ export default function Contenido({userName}) {
                     </div>
                     <button
                         type="submit"
-                        className="w-full p-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                        className="w-full p-2 bg-purple-700 text-white rounded hover:bg-blue-600"
                     >
                         Agregar Gasto
                     </button>
